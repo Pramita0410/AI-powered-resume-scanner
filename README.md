@@ -20,9 +20,23 @@ Employing RAG bolsters the chatbot’s ability to access and utilize a vast repo
 ## Additional Resources
 Experience the chatbot’s capabilities firsthand through our [Streamlit Demo](https://ai-powered-resume-scanner.streamlit.app/).
 
-## How to Run
+## Setup and Execution
+Below is a single bash script to clone the repo, set up the environment, install dependencies, and run the application. Ensure you have Conda installed on your machine before running this script.
 
-### Clone the Repository
 ```bash
+# Clone the repository
 git clone https://github.com/Pramita0410/AI-powered-resume-scanner
+
+# Navigate into the repository
+cd AI-powered-resume-scanner
+
+# Create and activate a new Conda environment
+conda create -n "genai" python=3.10 ipython -y
+conda activate genai
+
+# Install the required packages
+pip install -r requirements.txt
+
+# Run the application
+streamlit run app.py
 
