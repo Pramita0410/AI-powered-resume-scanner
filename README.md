@@ -1,7 +1,7 @@
 # AI-Powered Resume Scanner
 
 ## Project Overview
-This project develops an innovative chatbot that streamlines the resume screening process for hiring managers. It diverges from conventional keyword-search tools by utilizing advanced Large Language Models (LLMs) to interpret and manage the complex language typically found in job descriptions and resumes. This tool is designed for efficiency, ease of use, and to match the effectiveness of a human in processing applications.
+This project, a part of my Optional Practical Training (OPT), develops an innovative chatbot that streamlines the resume screening process for hiring managers. It diverges from conventional keyword-search tools by utilizing advanced Large Language Models (LLMs) to interpret and manage the complex language typically found in job descriptions and resumes. This tool is designed for efficiency, ease of use, and to match the effectiveness of a human in processing applications.
 
 ## Operational Framework
 The chatbot incorporates a sophisticated retrieval system that identifies the most suitable candidates for a role:
@@ -39,10 +39,12 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
-bash```
+```
+
 
 ## Future Scope
-1. Data Engineering Tools: Implement data engineering tools to automate the extraction and realtime processing of applicant data. This will facilitate the continuous updating of the model with new
-resumes and job descriptions.
-2. Data Visuaization: Integrate the automated pipeline with dashboarding tools for analying and displaying key metrics such as match percentage, skills overlap, and
-experience levels, helping recruiters quickly assess candidate suitability
+1. **Data Engineering Tools**: Implement data engineering tools to automate the extraction and real-time processing of applicant data. This will facilitate the continuous updating of the model with new resumes and job descriptions.
+2. **Data Visualization**: Integrate the automated pipeline with dashboarding tools for analyzing and displaying key metrics such as match percentage, skills overlap, and experience levels, helping recruiters quickly assess candidate suitability.
+
+## Contributing
+Interested in contributing? Great! Please fork the repository and submit a pull request with your proposed changes.
