@@ -14,7 +14,7 @@ These resumes then provide context to the LLM, enhancing its ability to undertak
 ## Importance of Enhanced Resume Screening
 The growing number of job applications each year necessitates more advanced screening tools that surpass the limitations of traditional keyword-based systems, which often overlook the subtleties of natural language.
 
-## Advantages of Using RAG/RAG Fusion
+## Advantages of Using RAG
 Employing RAG bolsters the chatbot’s ability to access and utilize a vast repository of data, ensuring responses are both relevant and accurate. This capability is essential in the recruitment industry, where job descriptions can vary widely and require nuanced interpretation.
 
 ## Additional Resources
