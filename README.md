@@ -39,4 +39,10 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
+bash```
 
+## Future Scope
+1. Data Engineering Tools: Implement data engineering tools to automate the extraction and realtime processing of applicant data. This will facilitate the continuous updating of the model with new
+resumes and job descriptions.
+2. Data Visuaization: Integrate the automated pipeline with dashboarding tools for analying and displaying key metrics such as match percentage, skills overlap, and
+experience levels, helping recruiters quickly assess candidate suitability
