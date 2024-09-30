@@ -1,7 +1,7 @@
 # AI-Powered Resume Scanner
 
 ## Project Overview
-This project, a part of my Optional Practical Training (OPT), develops an innovative chatbot that streamlines the resume screening process for hiring managers. It diverges from conventional keyword-search tools by utilizing advanced Large Language Models (LLMs) to interpret and manage the complex language typically found in job descriptions and resumes. This tool is designed for efficiency, ease of use, and to match the effectiveness of a human in processing applications.
+This project develops an innovative chatbot that streamlines the resume screening process for hiring managers. It diverges from conventional keyword-search tools by utilizing advanced Large Language Models (LLMs) to interpret and manage the complex language typically found in job descriptions and resumes. This tool is designed for efficiency, ease of use, and to match the effectiveness of a human in processing applications.
 
 ## Operational Framework
 The chatbot incorporates a sophisticated retrieval system that identifies the most suitable candidates for a role:
