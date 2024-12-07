@@ -1,6 +1,6 @@
 # AI-Powered Resume Scanner
 
-## Lets understand the working of Gen AI
+## Lets understand the working of Gen AI in Resume Screening
 ![image](https://github.com/user-attachments/assets/b941fa8e-1323-4d27-a9df-e99606739480)
 
 
