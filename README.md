@@ -1,5 +1,9 @@
 # AI-Powered Resume Scanner
 
+## Lets understand the working of Gen AI
+![image](https://github.com/user-attachments/assets/b941fa8e-1323-4d27-a9df-e99606739480)
+
+
 ## Project Overview
 This project develops an innovative chatbot that streamlines the resume screening process for hiring managers. It diverges from conventional keyword-search tools by utilizing advanced Large Language Models (LLMs) to interpret and manage the complex language typically found in job descriptions and resumes. This tool is designed for efficiency, ease of use, and to match the effectiveness of a human in processing applications.
 
